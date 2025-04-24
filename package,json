@@ -1,0 +1,18 @@
+{
+  "name": "Bot-game",
+  "version": "0.1.0",
+  "description": "A simple Node app bot game",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.0",
+    "dotenv": "^16.4.7",
+    "axios": "^1.7.7"
+  },
+  "engines": {
+    "node": "16.x"
+  },
+  "license": "MIT"
+}
