@@ -1,6 +1,6 @@
 {
   "name": "Bot-game",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "A simple Node app bot game",
   "main": "server.js",
   "scripts": {
